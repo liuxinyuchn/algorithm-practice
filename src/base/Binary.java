@@ -1,4 +1,4 @@
-package introductory;
+package base;
 
 // 二进制
 public class Binary {
