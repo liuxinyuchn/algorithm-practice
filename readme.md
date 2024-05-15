@@ -1,0 +1,31 @@
+# 算法练习与总结
+
+## 基础
+
+- [二进制](./src/base/Binary.java)
+
+## 基础排序
+
+- [选择排序](./src/sort/SelectionSort.java)
+- [冒泡排序](./src/sort/BubbleSort.java)
+- [插入排序](./src/sort/InsertionSort.java)
+
+## 二分查找
+
+- [lc 162.寻找峰值](./src/search/binary/FindPeakElement.java)
+
+## 链表
+
+- [lc 206.反转链表](./src/linkedlist/ListReverse.java)
+- [lc 21.合并两个有序链表](./src/linkedlist/MergeTwoList.java)
+- [lc 2.两数相加](./src/linkedlist/AddTwoNumbers.java)
+- [lc 86.分隔链表](./src/linkedlist/PartitionList.java)
+
+## 队列
+
+- [lc 232.用栈实现队列](./src/queue/QueueByStack.java)
+- [lc 622.设计循环队列](./src/queue/MyCircularQueue.java)
+
+## 栈
+
+- [lc 225.用队列实现栈](./src/stack/StackByQueue.java)
