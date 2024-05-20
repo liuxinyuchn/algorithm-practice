@@ -31,3 +31,7 @@
 
 - [lc 225.用队列实现栈](./src/stack/StackByQueue.java)
 - [lc 155.最小栈](./src/stack/MinStack.java)
+
+## 二叉树
+
+- [lc 94.二叉树的中序遍历](./src/tree/binary/InorderTraversal.java)
