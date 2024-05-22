@@ -10,6 +10,7 @@
 - [冒泡排序](./src/sort/BubbleSort.java)
 - [插入排序](./src/sort/InsertionSort.java)
 - [归并排序](./src/sort/MergeSort.java)
+- [快速排序](./src/sort/QuickSort.java)
 
 ## 二分查找
 
