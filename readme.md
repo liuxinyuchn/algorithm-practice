@@ -38,3 +38,7 @@
 - [lc 94.二叉树的中序遍历](./src/tree/binary/InorderTraversal.java)
 - [lc 144.二叉树的前序遍历](./src/tree/binary/PreorderTraversal.java)
 - [lc 145.二叉树的后序遍历](./src/tree/binary/PostorderTraversal.java)
+
+## 分治
+
+- [lc 493.翻转对](./src/divide/ReversePairs.java)
