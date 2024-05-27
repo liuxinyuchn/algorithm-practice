@@ -11,6 +11,7 @@
 - [插入排序](./src/sort/InsertionSort.java)
 - [归并排序](./src/sort/MergeSort.java)
 - [快速排序](./src/sort/QuickSort.java)
+- [堆排序](./src/sort/HeapSort.java)
 
 ## 二分查找
 
