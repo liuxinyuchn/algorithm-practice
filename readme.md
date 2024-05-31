@@ -64,3 +64,4 @@
 - [lc 260.只出现一次的数字Ⅲ](./src/bit/SingleNumber3.java)
 - [lc 231.2 的幂](./src/bit/PowerOfTwo.java)
 - [lc 201.数字范围按位与](./src/bit/RangeBitwiseAnd.java)
+- [lc 190.颠倒二进制位](./src/bit/ReverseBits.java)
