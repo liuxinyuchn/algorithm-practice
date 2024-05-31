@@ -62,3 +62,4 @@
 - [lc 136.只出现一次的数字](./src/bit/SingleNumber.java)
 - [lc 137.只出现一次的数字Ⅱ](./src/bit/SingleNumber2.java)
 - [lc 260.只出现一次的数字Ⅲ](./src/bit/SingleNumber3.java)
+- [lc 231.2 的幂](./src/bit/PowerOfTwo.java)
