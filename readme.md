@@ -67,3 +67,4 @@
 - [lc 190.颠倒二进制位](./src/bit/ReverseBits.java)
 - [lc 461.汉明距离](./src/bit/HammingDistance.java)
 - [lc 2166.设计位集](./src/bit/Bitset.java)
+- [lc 29.两数相除](./src/bit/BitOperation.java)
