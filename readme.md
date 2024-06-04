@@ -24,6 +24,7 @@
 - [lc 21.合并两个有序链表](./src/linkedlist/MergeTwoList.java)
 - [lc 2.两数相加](./src/linkedlist/AddTwoNumbers.java)
 - [lc 86.分隔链表](./src/linkedlist/PartitionList.java)
+- [lc 160.相交链表](./src/linkedlist/IntersectionOfTwoLinkedlists.java)
 
 ## 队列
 
