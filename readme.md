@@ -25,6 +25,7 @@
 - [lc 2.两数相加](./src/linkedlist/AddTwoNumbers.java)
 - [lc 86.分隔链表](./src/linkedlist/PartitionList.java)
 - [lc 160.相交链表](./src/linkedlist/IntersectionOfTwoLinkedlists.java)
+- [lc 25.K 个一组翻转链表](./src/linkedlist/ReverseKGroup.java)
 
 ## 队列
 
