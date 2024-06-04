@@ -28,6 +28,7 @@
 - [lc 25.K 个一组翻转链表](./src/linkedlist/ReverseKGroup.java)
 - [lc 138.随机链表的复制](./src/linkedlist/CopyRandomList.java)
 - [lc 234.回文链表](./src/linkedlist/PalindromeLinkedList.java)
+- [lc 148.排序链表](./src/linkedlist/SortList.java)
 
 ## 队列
 
