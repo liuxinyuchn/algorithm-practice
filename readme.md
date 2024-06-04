@@ -26,6 +26,7 @@
 - [lc 86.分隔链表](./src/linkedlist/PartitionList.java)
 - [lc 160.相交链表](./src/linkedlist/IntersectionOfTwoLinkedlists.java)
 - [lc 25.K 个一组翻转链表](./src/linkedlist/ReverseKGroup.java)
+- [lc 138.随机链表的复制](./src/linkedlist/CopyRandomList.java)
 
 ## 队列
 
