@@ -78,3 +78,4 @@
 ## 数据结构设计
 
 - [lc 146.LRU 缓存](./src/design/LRUCache.java)
+- [lc 380.O(1) 时间插入、删除和获取随机元素](./src/design/RandomizedSet.java)
