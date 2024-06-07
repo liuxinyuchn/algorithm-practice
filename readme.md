@@ -82,3 +82,4 @@
 - [lc 381.O(1) 时间插入、删除和获取随机元素 - 允许重复](./src/design/RandomizedCollection.java)
 - [lc 295.数据流的中位数](./src/design/MedianFinder.java)
 - [lc 895.最大频率栈](./src/design/FreqStack.java)
+- [lc 432.全 O(1) 的数据结构](./src/design/AllOne.java)
