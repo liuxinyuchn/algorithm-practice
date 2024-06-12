@@ -52,6 +52,8 @@
 - [lc 662.二叉树最大宽度](./src/tree/binary/WidthOfBinaryTree.java)
 - [lc 104.二叉树的最大深度](./src/tree/binary/MaxDepth.java)
 - [lc 111.二叉树的最小深度](./src/tree/binary/MinDepth.java)
+- [lc 297.二叉树的序列化和反序列化(前序遍历方式)](./src/tree/binary/PreorderSerializeAndDeserialize.java)
+- [lc 297.二叉树的序列化和反序列化(层序遍历方式)](./src/tree/binary/LevelorderSerializeAndDeserialize.java)
 
 ## 分治
 
