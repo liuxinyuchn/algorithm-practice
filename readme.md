@@ -54,6 +54,7 @@
 - [lc 111.二叉树的最小深度](./src/tree/binary/MinDepth.java)
 - [lc 297.二叉树的序列化和反序列化(前序遍历方式)](./src/tree/binary/PreorderSerializeAndDeserialize.java)
 - [lc 297.二叉树的序列化和反序列化(层序遍历方式)](./src/tree/binary/LevelorderSerializeAndDeserialize.java)
+- [lc 105.从前序与中序遍历序列构造二叉树](./src/tree/binary/PreorderInorderBuildBinaryTree.java)
 
 ## 分治
 
