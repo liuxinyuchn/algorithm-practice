@@ -56,6 +56,7 @@
 - [lc 297.二叉树的序列化和反序列化(层序遍历方式)](./src/tree/binary/LevelorderSerializeAndDeserialize.java)
 - [lc 105.从前序与中序遍历序列构造二叉树](./src/tree/binary/PreorderInorderBuildBinaryTree.java)
 - [lc 958.二叉树的完全性校验](./src/tree/binary/CheckCompletenessOfBinaryTree.java)
+- [lc 222.完全二叉树的节点个数](./src/tree/binary/CountCompleteTreeNodes.java)
 
 ## 分治
 
