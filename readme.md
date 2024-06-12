@@ -50,6 +50,7 @@
 - [lc 102.二叉树的层序遍历](./src/tree/binary/LevelOrderTraversal.java)
 - [lc 103.二叉树的锯齿形层序遍历](./src/tree/binary/ZigzagLevelOrderTraversal.java)
 - [lc 662.二叉树最大宽度](./src/tree/binary/WidthOfBinaryTree.java)
+- [lc 104.二叉树的最大深度](./src/tree/binary/MaxDepth.java)
 
 ## 分治
 
