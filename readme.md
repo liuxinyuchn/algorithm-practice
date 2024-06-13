@@ -60,6 +60,7 @@
 - [lc 236.二叉树的最近公共祖先](./src/tree/binary/LowestCommonAncestorOfBinaryTree.java)
 - [lc 235.二叉搜索树的最近公共祖先](./src/tree/binary/LowestCommonAncestorOfBinarySearchTree.java)
 - [lc 113.路径总和 Ⅱ](./src/tree/binary/PathSumII.java)
+- [lc 110.平衡二叉树](./src/tree/binary/BalancedBinaryTree.java)
 
 ## 分治
 
