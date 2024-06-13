@@ -57,6 +57,7 @@
 - [lc 105.从前序与中序遍历序列构造二叉树](./src/tree/binary/PreorderInorderBuildBinaryTree.java)
 - [lc 958.二叉树的完全性校验](./src/tree/binary/CheckCompletenessOfBinaryTree.java)
 - [lc 222.完全二叉树的节点个数](./src/tree/binary/CountCompleteTreeNodes.java)
+- [lc 236.二叉树的最近公共祖先](./src/tree/binary/LowestCommonAncestorOfBinaryTree.java)
 
 ## 分治
 
