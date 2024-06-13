@@ -58,6 +58,7 @@
 - [lc 958.二叉树的完全性校验](./src/tree/binary/CheckCompletenessOfBinaryTree.java)
 - [lc 222.完全二叉树的节点个数](./src/tree/binary/CountCompleteTreeNodes.java)
 - [lc 236.二叉树的最近公共祖先](./src/tree/binary/LowestCommonAncestorOfBinaryTree.java)
+- [lc 235.二叉搜索树的最近公共祖先](./src/tree/binary/LowestCommonAncestorOfBinarySearchTree.java)
 
 ## 分治
 
