@@ -109,3 +109,4 @@
 - [反转栈](./src/recursion/ReverseStack.java)
 - [lc 772.基本计算器Ⅲ](./src/recursion/BasicCalculatorIII.java)
 - [lc 394.字符串解码](./src/recursion/DecodeString.java)
+- [lc 726.原子的数量](./src/recursion/NumberOfAtoms.java)
