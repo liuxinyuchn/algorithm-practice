@@ -108,3 +108,4 @@
 - [lc 47.全排列Ⅱ](./src/recursion/PermutationsII.java)
 - [反转栈](./src/recursion/ReverseStack.java)
 - [lc 772.基本计算器Ⅲ](./src/recursion/BasicCalculatorIII.java)
+- [lc 394.字符串解码](./src/recursion/DecodeString.java)
