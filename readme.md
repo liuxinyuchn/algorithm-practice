@@ -112,3 +112,7 @@
 - [lc 394.字符串解码](./src/recursion/DecodeString.java)
 - [lc 726.原子的数量](./src/recursion/NumberOfAtoms.java)
 - [lc 52.N 皇后Ⅱ](./src/recursion/NQueensII.java)
+
+## 数学
+
+- [lc 9.回文数](./src/math/PalindromeNumber.java)
