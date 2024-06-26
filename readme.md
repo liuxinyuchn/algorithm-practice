@@ -116,3 +116,4 @@
 ## 数学
 
 - [lc 9.回文数](./src/math/PalindromeNumber.java)
+- [lc 906.超级回文数](./src/math/SuperPalindromes.java)
