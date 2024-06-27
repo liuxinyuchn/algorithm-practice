@@ -117,3 +117,7 @@
 
 - [lc 9.回文数](./src/math/PalindromeNumber.java)
 - [lc 906.超级回文数](./src/math/SuperPalindromes.java)
+
+## 前缀树
+
+- [lc 1804.实现 Trie（前缀树）Ⅱ](./src/trie/Trie.java)
