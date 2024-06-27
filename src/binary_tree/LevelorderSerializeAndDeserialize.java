@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 297.二叉树的序列化和反序列化(层序遍历方式)
 public class LevelorderSerializeAndDeserialize {

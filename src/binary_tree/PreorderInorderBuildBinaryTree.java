@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 236.二叉树的最近公共祖先
 public class LowestCommonAncestorOfBinaryTree {

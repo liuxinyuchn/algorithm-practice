@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 337.打家劫舍 Ⅲ
 public class HouseRobberIII {

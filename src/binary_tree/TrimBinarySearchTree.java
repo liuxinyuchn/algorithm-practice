@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 669.修剪二叉搜索树
 public class TrimBinarySearchTree {

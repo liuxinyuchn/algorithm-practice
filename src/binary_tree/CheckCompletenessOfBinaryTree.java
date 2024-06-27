@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 958.二叉树的完全性校验
 public class CheckCompletenessOfBinaryTree {

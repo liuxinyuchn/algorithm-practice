@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 111.二叉树的最小深度
 public class MinDepth {

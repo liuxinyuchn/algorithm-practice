@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 110.平衡二叉树
 public class BalancedBinaryTree {

@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 662.二叉树最大宽度
 public class WidthOfBinaryTree {

@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 98.验证二叉搜索树
 public class ValidateBinarySearchTree {

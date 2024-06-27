@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // lc 235.二叉搜索树的最近公共祖先
 public class LowestCommonAncestorOfBinarySearchTree {

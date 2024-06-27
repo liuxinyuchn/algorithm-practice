@@ -1,4 +1,4 @@
-package tree.binary;
+package binary_tree;
 
 // 二叉树节点定义
 public class TreeNode {
