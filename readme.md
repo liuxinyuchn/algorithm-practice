@@ -16,8 +16,8 @@
 
 ## 二分查找
 
-- [lc 162.寻找峰值](./src/search/binary/FindPeakElement.java)
-- [lc 878.第 N 个神奇数字](./src/search/binary/NthMagicalNumber.java)
+- [lc 162.寻找峰值](src/binary_search/FindPeakElement.java)
+- [lc 878.第 N 个神奇数字](src/binary_search/NthMagicalNumber.java)
 
 ## 链表
 

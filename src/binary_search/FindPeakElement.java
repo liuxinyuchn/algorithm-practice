@@ -1,4 +1,4 @@
-package search.binary;
+package binary_search;
 
 // lc 162. 寻找峰值
 public class FindPeakElement {

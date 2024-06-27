@@ -1,4 +1,4 @@
-package search.binary;
+package binary_search;
 
 // lc 878.第 N 个神奇数字
 public class NthMagicalNumber {
