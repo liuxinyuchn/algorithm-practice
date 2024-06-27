@@ -1,4 +1,4 @@
-package selection.quick;
+package quick_selection;
 
 // lc 215.数组中的第 K 个最大元素
 public class FindKthLargest {
