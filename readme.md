@@ -121,3 +121,4 @@
 ## 前缀树
 
 - [lc 1804.实现 Trie（前缀树）Ⅱ](./src/trie/Trie.java)
+- [lc 421.数组中两个数的最大异或值](./src/trie/MaximumXorOfTwoNumbersInArray.java)
