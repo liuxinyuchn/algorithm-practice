@@ -127,3 +127,4 @@
 - [lc 560.和为 K 的子数组](./src/trie/SubarraySumEqualsK.java)
 - [lc 1124.表现良好的最长时间段](./src/trie/LongestWellPerformingInterval.java)
 - [lc 1590.使数组和能被 P 整除](./src/trie/MakeSumDivisibleByP.java)
+- [lc 1371.每个元音包含偶数次的最长子字符串](./src/trie/FindTheLongestSubstring.java)
