@@ -126,3 +126,4 @@
 - [lc 303.区域和检索 - 数组不可变](./src/trie/NumArray.java)
 - [lc 560.和为 K 的子数组](./src/trie/SubarraySumEqualsK.java)
 - [lc 1124.表现良好的最长时间段](./src/trie/LongestWellPerformingInterval.java)
+- [lc 1590.使数组和能被 P 整除](./src/trie/MakeSumDivisibleByP.java)
