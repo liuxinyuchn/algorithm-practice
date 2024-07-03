@@ -1,4 +1,4 @@
-package trie;
+package prefix_sum;
 
 // lc 303.区域和检索 - 数组不可变
 public class NumArray {

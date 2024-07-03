@@ -1,4 +1,4 @@
-package trie;
+package prefix_sum;
 
 import java.util.Arrays;
 
