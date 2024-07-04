@@ -131,3 +131,4 @@
 - [lc 1124.表现良好的最长时间段](./src/prefix_sum/LongestWellPerformingInterval.java)
 - [lc 1590.使数组和能被 P 整除](./src/prefix_sum/MakeSumDivisibleByP.java)
 - [lc 1371.每个元音包含偶数次的最长子字符串](./src/prefix_sum/FindTheLongestSubstring.java)
+- [lc 1109.航班预定统计](./src/prefix_sum/CorporateFlightBookings.java)
