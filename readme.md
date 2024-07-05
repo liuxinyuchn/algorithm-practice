@@ -133,3 +133,4 @@
 - [lc 1371.每个元音包含偶数次的最长子字符串](./src/prefix_sum/FindTheLongestSubstring.java)
 - [lc 1109.航班预定统计](./src/prefix_sum/CorporateFlightBookings.java)
 - [lc 304.二维区域和检索 - 矩阵不可变](./src/prefix_sum/RangeSumQuery2dImmutable.java)
+- [lc 1139.最大的以 1 为边界的正方形](./src/prefix_sum/Largest1BorderedSquare.java)
