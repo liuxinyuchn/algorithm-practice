@@ -134,3 +134,4 @@
 - [lc 1109.航班预定统计](./src/prefix_sum/CorporateFlightBookings.java)
 - [lc 304.二维区域和检索 - 矩阵不可变](./src/prefix_sum/RangeSumQuery2dImmutable.java)
 - [lc 1139.最大的以 1 为边界的正方形](./src/prefix_sum/Largest1BorderedSquare.java)
+- [lc 2132.用邮票贴满网格图](./src/prefix_sum/StampingTheGrid.java)
