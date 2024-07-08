@@ -145,3 +145,4 @@
 - [lc 134.加油站](./src/sliding_window/GasStation.java)
 - [lc 1234.替换子串得到平衡字符串](./src/sliding_window/ReplaceSubstringForBalancedString.java)
 - [lc 992.K 个不同整数的子数组](./src/sliding_window/SubArraysWithKDifferentIntegers.java)
+- [lc 395.至少有 K 个重复字符的最长子串](./src/sliding_window/LongestSubstringWithAtLeastKRepeatingCharacters.java)
