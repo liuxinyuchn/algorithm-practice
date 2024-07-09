@@ -150,3 +150,4 @@
 ## 双指针
 
 - [lc 922.按奇偶排序数组 Ⅱ](./src/double_pointer/SortArrayByParityII.java)
+- [lc 287.寻找重复数](./src/double_pointer/FindTheDuplicateNumber.java)
