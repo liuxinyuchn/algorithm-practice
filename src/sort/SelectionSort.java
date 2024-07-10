@@ -22,9 +22,9 @@ public class SelectionSort {
                     minIndex = j;
                 }
             }
-            nums[minIndex] ^= nums[i];
-            nums[i] ^= nums[minIndex];
-            nums[minIndex] ^= nums[i];
+            int tmp = nums[minIndex];
+            nums[minIndex] = nums[i];
+            nums[i] = tmp;
         }
         return nums;
     }
