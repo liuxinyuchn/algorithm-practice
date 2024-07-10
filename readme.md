@@ -19,6 +19,7 @@
 - [lc 162.寻找峰值](src/binary_search/FindPeakElement.java)
 - [lc 878.第 N 个神奇数字](src/binary_search/NthMagicalNumber.java)
 - [lc 875.爱吃香蕉的珂珂](src/binary_search/KokoEatingBananas.java)
+- [lc 410.分割数组最大值](src/binary_search/SplitArrayLargestSum.java)
 
 ## 链表
 
