@@ -20,6 +20,7 @@
 - [lc 878.第 N 个神奇数字](src/binary_search/NthMagicalNumber.java)
 - [lc 875.爱吃香蕉的珂珂](src/binary_search/KokoEatingBananas.java)
 - [lc 410.分割数组最大值](src/binary_search/SplitArrayLargestSum.java)
+- [lc 719.找出第 K 小的数对距离](src/binary_search/FindKthSmallestPairDistance.java)
 
 ## 链表
 
