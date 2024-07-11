@@ -21,6 +21,7 @@
 - [lc 875.爱吃香蕉的珂珂](src/binary_search/KokoEatingBananas.java)
 - [lc 410.分割数组最大值](src/binary_search/SplitArrayLargestSum.java)
 - [lc 719.找出第 K 小的数对距离](src/binary_search/FindKthSmallestPairDistance.java)
+- [lc 2141.同时运行 N 台电脑的最长时间](src/binary_search/MaxRunningTimeOfNComputers.java)
 
 ## 链表
 
