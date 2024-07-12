@@ -166,3 +166,4 @@
 - [lc 739.每日温度](./src/monotonic_stack/DailyTemperatures.java)
 - [lc 907.子数组的最小值之和](./src/monotonic_stack/SumOfSubarrayMinimums.java)
 - [lc 84.柱状图中的最大矩形](./src/monotonic_stack/LargestRectangleInHistogram.java)
+- [lc 85.最大矩形](./src/monotonic_stack/MaximalRectangle.java)
