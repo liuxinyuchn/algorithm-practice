@@ -169,3 +169,4 @@
 - [lc 85.最大矩形](./src/monotonic_stack/MaximalRectangle.java)
 - [lc 1504.统计全 1 子矩形](./src/monotonic_stack/CountSubmatricesWithAllOnes.java)
 - [lc 316 去除重复字母](./src/monotonic_stack/RemoveDuplicateLetters.java)
+- [lc 962.最大宽度坡](./src/monotonic_stack/MaximumWidthRamp.java)
