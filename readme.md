@@ -177,3 +177,4 @@
 - [lc 1438.绝对差不超过限制的最长连续子数组](./src/monotonic_queue/LongestSubarrayAbsoluteLimit.java)
 - [lc 2071.你可以安排的最多任务数量](./src/monotonic_queue/MaxTaskAssign.java)
 - [lc 1499.满足不等式的最大值](./src/monotonic_queue/MaxValueOfEquation.java)
+- [lc 862.和至少为 K 的最短子数组](./src/monotonic_queue/ShortestSubarrayWithSumAtLeastK.java)
