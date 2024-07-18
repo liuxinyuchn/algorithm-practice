@@ -175,3 +175,4 @@
 
 - [lc 239.滑动窗口最大值](./src/monotonic_queue/SlidingWindowMaximum.java)
 - [lc 1438.绝对差不超过限制的最长连续子数组](./src/monotonic_queue/LongestSubarrayAbsoluteLimit.java)
+- [lc 2071.你可以安排的最多任务数量](./src/monotonic_queue/MaxTaskAssign.java)
