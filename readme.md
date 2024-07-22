@@ -182,3 +182,4 @@
 ## 并查集
 
 - [lc 765.情侣牵手](./src/union_find/CoupleHoldingHands.java)
+- [lc 839.相似字符串组](./src/union_find/SimilarStringGroups.java)
