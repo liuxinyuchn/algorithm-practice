@@ -183,3 +183,4 @@
 
 - [lc 765.情侣牵手](./src/union_find/CoupleHoldingHands.java)
 - [lc 839.相似字符串组](./src/union_find/SimilarStringGroups.java)
+- [lc 947.移除最多的同行或同列石头](./src/union_find/MostStonesRemovedWithSameRowOrColumn.java)
