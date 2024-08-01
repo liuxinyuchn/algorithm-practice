@@ -202,3 +202,7 @@
 - [lc 851.喧闹与富有](./src/graph/LoudAndRich.java)
 - [lc 2050.并行课程 Ⅲ](./src/graph/ParallelCoursesIII.java)
 - [lc 2127.参加会议的最多员工数](./src/graph/MaxEmployeesToBeInvitedToAMeeting.java)
+
+## 最小生成树
+
+- [lc 1168.水资源分配优化](./src/graph/OptimizeWaterDistributionInAVillage.java)
