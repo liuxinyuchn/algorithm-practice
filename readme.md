@@ -206,3 +206,4 @@
 ## 最小生成树
 
 - [lc 1168.水资源分配优化](./src/graph/OptimizeWaterDistributionInAVillage.java)
+- [lc 1697.检查边长度限制的路径是否存在](./src/graph/CheckingExistenceOfEdgeLengthLimitedPaths.java)
