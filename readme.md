@@ -212,3 +212,4 @@
 
 - [lc 1162.地图分析](./src/graph/AsFarFromLandAsPossible.java)
 - [lc 691.贴纸拼词](./src/graph/StickersToSpellWord.java)
+- [lc 2290.到达角落需要移除障碍物的最小数目](./src/graph/MinimumObstacleRemovalToReachCorner.java)
