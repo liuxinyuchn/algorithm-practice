@@ -10,37 +10,38 @@ public class DecodeWaysII {
         long[] dp = new long[n + 1];
         dp[n] = 1;
         for (int i = n - 1; i >= 0; i--) {
-            if (s.charAt(i) != '0') {
-                dp[i] = (s.charAt(i) == '*' ? 9 : 1) * dp[i + 1];
-                if (i + 1 < n) {
-                    if (s.charAt(i) != '*') {
-                        if (s.charAt(i + 1) != '*') {
-                            if ((s.charAt(i) - '0') * 10 + s.charAt(i + 1) - '0' <= 26) {
-                                dp[i] += dp[i + 2];
-                            }
-                        } else {
-                            if (s.charAt(i) == '1') {
-                                dp[i] += 9 * dp[i + 2];
-                            }
-                            if (s.charAt(i) == '2') {
-                                dp[i] += 6 * dp[i + 2];
-                            }
-                        }
-                    } else {
-                        if (s.charAt(i + 1) != '*') {
-                            if (s.charAt(i + 1) <= '6') {
-                                dp[i] += 2 * dp[i + 2];
-                            } else {
-                                dp[i] += dp[i + 2];
-                            }
-                        } else {
-                            dp[i] += 15 * dp[i + 2];
-                        }
-                    }
-                }
-                dp[i] %= MOD;
+            dp[i] = checkOneDigit(s.charAt(i)) * dp[i + 1];
+            if (i + 1 < n) {
+                dp[i] += checkTwoDigit(s.charAt(i), s.charAt(i + 1)) * dp[i + 2];
             }
+            dp[i] %= MOD;
         }
         return (int) dp[0];
+    }
+
+    private int checkOneDigit(char c) {
+        if (c == '0') {
+            return 0;
+        }
+        return c == '*' ? 9 : 1;
+    }
+
+    private int checkTwoDigit(char c1, char c2) {
+        if (c1 == '*' && c2 == '*') {
+            return 15;
+        }
+        if (c1 == '*') {
+            return c2 <= '6' ? 2 : 1;
+        }
+        if (c2 == '*') {
+            if (c1 == '1') {
+                return 9;
+            }
+            if (c1 == '2') {
+                return 6;
+            }
+            return 0;
+        }
+        return (c1 != '0' && (c1 - '0') * 10 + c2 - '0' <= 26) ? 1 : 0; 
     }
 }
