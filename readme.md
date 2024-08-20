@@ -223,3 +223,4 @@
 - [lc 91.解码方法](./src/dynamic_programming/DecodeWays.java)
 - [lc 639.解码方法 II](./src/dynamic_programming/DecodeWaysII.java)
 - [lc 264.丑数 II](./src/dynamic_programming/UglyNumberII.java)
+- [lc 32.最长有效括号](./src/dynamic_programming/LongestValidParentheses.java)
