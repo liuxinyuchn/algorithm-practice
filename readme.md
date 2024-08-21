@@ -225,3 +225,4 @@
 - [lc 264.丑数 II](./src/dynamic_programming/UglyNumberII.java)
 - [lc 32.最长有效括号](./src/dynamic_programming/LongestValidParentheses.java)
 - [lc 467.环绕字符串中唯一的子字符串](./src/dynamic_programming/UniqueSubstringsWraparoundString.java)
+- [lc 940.不同的子序列 II](./src/dynamic_programming/DistinctSubsequencesII.java)
