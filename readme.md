@@ -217,6 +217,10 @@
 - [lc 1368.使网格图至少有一条有效路径的最小代价](./src/graph/MinimumCostToMakeAtLeastOneValidPath.java)
 - [lc 407.接雨水 II](./src/graph/TrappingRainWaterII.java)
 
+## DFS
+
+- [lc 329.矩阵中的最长递增路径](./src/dfs/LongestIncreasingPath.java)
+
 ## 动态规划
 
 - [lc 509.斐波那契数](./src/dynamic_programming/FibonacciNumber.java)
