@@ -234,3 +234,4 @@
 - [lc 64.最小路径和](./src/dynamic_programming/MinimumPathSum.java)
 - [lc 1143.最长公共子序列](./src/dynamic_programming/LongestCommonSubsequence.java)
 - [lc 516.最长回文子序列](./src/dynamic_programming/LongestPalindromicSubsequence.java)
+- [lc 115.不同的子序列](./src/dynamic_programming/DistinctSubsequences.java)
